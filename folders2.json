@@ -1,5 +1,5 @@
 {
-  "uri" : "https://artifactory.infra.atscale.com:443/artifactory/api/storage/docker/image-builder/universal/atscale/r2022.1.0",
+  "uri" : "https://artifactory.internal.com/artifactory/api/storage/r2022.1.0",
   "created" : "2022-03-29T08:50:39.827Z",
   "files" : [ {
     "uri" : "/2022.1.0.4425",
